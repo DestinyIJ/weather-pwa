@@ -1,0 +1,16 @@
+{
+    "short_name": "Weather App",
+    "name": "Weather PWA App",
+    "description": "Check your local weather by just searching for city ",
+    "icons": [
+        {
+            "src": "/images/logo.png",
+            "type": "image/png",
+            "sizes": "1024x1024"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#0000",
+    "background_color": "#fff"
+}
